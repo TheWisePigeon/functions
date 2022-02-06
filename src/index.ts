@@ -1,4 +1,5 @@
 export { api } from "./http"
+export { createUserRecord } from "./auth"
 // // Start writing Firebase Functions
 // // https://firebase.google.com/docs/functions/typescript
 //
