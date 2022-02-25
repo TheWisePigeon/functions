@@ -1,4 +1,6 @@
 export { api } from "./http"
+export { createUserRecord } from "./auth"
+export { gameCount } from "./firestore"
 // // Start writing Firebase Functions
 // // https://firebase.google.com/docs/functions/typescript
 //
